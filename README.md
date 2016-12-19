@@ -1,10 +1,12 @@
-# sqlite3-pcre
+# sqlite3-regexp-cached
 
 Provide REGEXP function for SQLite3 with regex caching, using PCRE library.
 
 Default cache size: 16
 
 `CACHE_SIZE` may be defined to change the regex cache size.
+
+Based on: <http://git.altlinux.org/people/at/packages/?p=sqlite3-pcre.git>
 
 **LICENSE:** public domain
 
