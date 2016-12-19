@@ -2,8 +2,6 @@
 
 Provide REGEXP function for SQLite3 with regex caching, using PCRE library.
 
-This is a loadable extension that is built according to `sqlite3-pcre.spec`.
-
 Default cache size: 16
 
 `CACHE_SIZE` may be defined to change the regex cache size.
